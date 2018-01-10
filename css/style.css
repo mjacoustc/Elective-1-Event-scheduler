@@ -1,0 +1,56 @@
+body {
+	background-color: skyblue;
+	padding: 0;
+	margin: 0;
+}
+
+
+input {
+	margin-bottom: 3px;
+}
+
+button {
+	margin-top: 10px;
+	margin-left: 180px;
+	background-color: royalblue;
+	color: white;
+	border: 1px solid black;
+	text-decoration: none;
+}
+
+button:hover{
+	background-color: white;
+	color: royalblue;
+	border: 1px solid black;
+}
+
+.mybody {
+	margin-left: 50px;
+}
+
+.header{
+	background-color: royalblue;
+	color: white;
+	border: 1px solid black;
+	margin-bottom: 10px;
+	padding-left: 5px;
+}
+
+.header2{
+	background-color: royalblue;
+	color: white;
+	height: 60px;
+	border: 1px solid black;
+	margin-bottom: 10px;
+	padding-left: 5px;
+}
+
+.box {
+	width: 300px;
+	height: auto;
+	margin: 40px;
+	padding: 8px;
+	border: 1px solid blue;
+	background-color: lightblue;
+}
+
